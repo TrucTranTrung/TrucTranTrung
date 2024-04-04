@@ -2,7 +2,7 @@
 -  I have a background in bachelor in Artificial Intelligence.
 - Programming Languages: Python, c++, java.
 - Technologies: [List of technologies]
-- Soft Skills: communication skill, teamwork......
+- Soft Skills: communication skill, teamwork, learning skills.
 
 - Apart from coding, I enjoy reading books, listen to music, and playing games.
 - My goal is to involved in the field of AI.

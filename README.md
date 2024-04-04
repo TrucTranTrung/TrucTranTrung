@@ -1,5 +1,5 @@
 -  Hi there! I'm TrucTranTrung, a technology lover passionate about becoming AI engineer. Welcome to my GitHub profile!
--  I have a background in bachelor in Intelligence.
+-  I have a background in bachelor in Artificial Intelligence.
 - Programming Languages: Python, c++, java.
 - Technologies: [List of technologies]
 - Soft Skills: communication skill, teamwork......
